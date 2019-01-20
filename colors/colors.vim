@@ -30,7 +30,7 @@ let g:light_grey_blue   = '#B2CCD6'
 let g:lighter_grey_blue = '#b2b2b2' " (fg)
 
 let g:teal              = '#2aa1ae' " (teal)
-let g:accent_teal       = '#73D1C8' " SpecialChar, Todo, Directory
+let g:accent_teal       = '#373040' " SpecialChar, Todo, Directory (dark purple grey)
 
 let g:paleblue          = '#B2CCD6' " [not found]
 let g:blue              = '#4f97d7' " DiffText, Title, Function(blue)
@@ -60,3 +60,4 @@ let g:punct             = g:light_grey
 "
 "
 " let g:lighter_grey_blue = '#EEFFFF' " (fg)
+" let g:accent_teal       = '#73D1C8' " SpecialChar, Todo, Directory
