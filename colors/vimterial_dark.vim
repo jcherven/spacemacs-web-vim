@@ -76,7 +76,7 @@ Hi DiffDelete           g:soft_red           g:background_alt
 Hi DiffText             g:blue               g:background_alt
 Hi ErrorMsg             g:background         g:soft_red
 hi ErrorMsg             gui=none
-Hi VertSplit            g:background         g:line_numbers
+Hi VertSplit            g:dark_purple         g:line_numbers
 Hi Folded               g:background         g:grey_blue
 Hi FoldedColumn         g:background         g:grey_blue
 Hi SignColumn           g:line_numbers       g:ignore
