@@ -25,8 +25,8 @@ let g:dark_purple       = "#5d4d7a" " act2 (dark purple)
 let g:white             = '#b2b2b2' " base (light grey)
 
 let g:dark_grey_blue    = '#37474f'
-let g:grey_blue         = '#546e7a' " Operator
-let g:light_grey_blue   = '#B2CCD6'
+let g:grey_blue         = '#546e7a'
+let g:light_grey_blue   = '#B2CCD6' " Operator
 let g:lighter_grey_blue = '#b2b2b2' " (fg)
 
 let g:teal              = '#2aa1ae' " (teal)
