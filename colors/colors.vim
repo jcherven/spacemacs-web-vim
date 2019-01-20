@@ -61,4 +61,4 @@ let g:punct             = g:light_grey
 "
 " let g:lighter_grey_blue = '#EEFFFF' " (fg)
 " let g:accent_teal       = '#73D1C8' " SpecialChar, Todo, Directory
-let g:grey              = '#68727c' " Comment, LineNr, Visual
+" let g:grey              = '#68727c' " Comment, LineNr, Visual
