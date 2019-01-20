@@ -27,7 +27,7 @@ let g:white             = '#b2b2b2' " base (light grey)
 let g:dark_grey_blue    = '#37474f'
 let g:grey_blue         = '#546e7a'
 let g:light_grey_blue   = '#B2CCD6'
-let g:lighter_grey_blue = '#EEFFFF' " (fg)
+let g:lighter_grey_blue = '#b2b2b2' " (fg)
 
 let g:teal              = '#2aa1ae' " (teal)
 let g:accent_teal       = '#73D1C8' " SpecialChar, Todo, Directory
@@ -58,3 +58,5 @@ let g:selection         = g:grey
 let g:punct             = g:light_grey
 " }}}
 "
+"
+" let g:lighter_grey_blue = '#EEFFFF' " (fg)
