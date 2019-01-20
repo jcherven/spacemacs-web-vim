@@ -67,8 +67,13 @@ let g:airline#themes#vimterial_dark#palette.ctrlp = airline#extensions#ctrlp#gen
 " Tabline
 let g:airline#themes#vimterial_dark#palette.tabline = {
       \ 'airline_tab':     [ g:foreground_alt , g:background ,  15 , 55  , '' ],
-      \ 'airline_tabsel':  [ g:foreground_alt , g:normal_accent ,  15 , 98  , '' ],
+      \ 'airline_tabsel':  [ g:foreground_alt , g:visual_accent ,  15 , 98  , '' ],
       \ 'airline_tabtype': [ g:foreground_alt , g:normal_accent ,  15 , 98  , '' ],
       \ 'airline_tabfill': [ g:foreground_alt , g:background_alt ,  15 , 233 , '' ],
       \ 'airline_tabmod':  [ g:background_alt , g:soft_red ,  15 , 33  , '' ]
       \ }
+" let g:normal_accent = g:grey
+" let g:insert_accent = g:blue
+" let g:visual_accent = g:green
+" let g:replace_accent = g:soft_red
+" let g:contrlp_accent = g:grey

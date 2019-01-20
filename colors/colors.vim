@@ -14,36 +14,36 @@ let g:none              = 'NONE'
 let g:ignore            = 'ignore'
 let g:testing           = '#CDFF00'
 
-let g:black             = '#000000' " contrast
-let g:darkest_grey      = '#212026' " line cursor bg_alt
-let g:dark_purple_grey  = '#373040' " Selection (dark purple grey)
-let g:darker_grey       = '#292b2e' " bg
-let g:grey              = '#68727c' " Comment, LineNr, Visual
-let g:light_grey        = '#827591' " punct (purple_grey)
-let g:lighter_grey      = '#827591' " fg_alt (purple_grey)
-let g:dark_purple       = "#5d4d7a" " act2 (dark purple)
-let g:white             = '#b2b2b2' " base (light grey)
+let g:black             = '#000000'
+let g:darkest_grey      = '#212026'
+let g:dark_purple_grey  = '#373040'
+let g:darker_grey       = '#292b2e'
+let g:grey              = '#68727c'
+let g:light_grey        = '#827591'
+let g:lighter_grey      = '#827591'
+let g:dark_purple       = "#5d4d7a"
+let g:white             = '#b2b2b2'
 
 let g:dark_grey_blue    = '#37474f'
 let g:grey_blue         = '#546e7a'
 let g:light_grey_blue   = '#B2CCD6'
-let g:lighter_grey_blue = '#b2b2b2' " (fg)
+let g:lighter_grey_blue = '#b2b2b2'
 
-let g:teal              = '#2aa1ae' " (teal)
-let g:accent_teal       = '#373040' " SpecialChar, Todo, Directory (dark purple grey)
+let g:teal              = '#2aa1ae'
+let g:accent_teal       = '#373040'
 
-let g:paleblue          = '#B2CCD6' " [not found]
-let g:blue              = '#2aa1ae' " DiffText, Title, Function (teal)
-let g:cyan              = '#ce537a' " Include (coral)
-let g:soft_red          = '#ff5370' " WarningMsg, DiffDelete, ErrorMsg (coral)
-let g:red               = '#FF5370' " [not found]
-let g:green             = '#2d9574' " String (cool green)
-let g:violet            = '#bc6ec5' " Identifier, Statement, PreProc, Type (pink)
-let g:limegreen         = '#67b11d' " [not found] (bright mute green)
-let g:orange            = '#a45bad' " DiffChange (medium purple)
-let g:soft_orange       = '#7590db' " assignment values (azure)
-let g:light_yellow      = '#b1951d' " search (error amber)
-let g:yellow            = '#FBC02D' " cursor
+let g:paleblue          = '#B2CCD6'
+let g:blue              = '#2aa1ae'
+let g:cyan              = '#ce537a'
+let g:soft_red          = '#ff5370'
+let g:red               = '#FF5370'
+let g:green             = '#2d9574'
+let g:violet            = '#bc6ec5'
+let g:limegreen         = '#67b11d'
+let g:orange            = '#a45bad'
+let g:soft_orange       = '#7590db'
+let g:light_yellow      = '#b1951d'
+let g:yellow            = '#FBC02D'
 
 let g:background        = g:darker_grey
 let g:background_alt    = g:darkest_grey
@@ -57,7 +57,6 @@ let g:line_numbers      = g:grey
 let g:selection         = g:dark_purple_grey
 let g:punct             = g:light_grey
 " }}}
-"
 "
 " let g:lighter_grey_blue = '#EEFFFF' " (fg)
 " let g:accent_teal       = '#73D1C8' " SpecialChar, Todo, Directory
