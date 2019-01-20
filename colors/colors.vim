@@ -16,7 +16,7 @@ let g:testing           = '#CDFF00'
 
 let g:black             = '#000000' " contrast
 let g:darkest_grey      = '#212026' " line cursor bg_alt
-let g:dark_purple_grey  = '#373040' " (dark purple grey)
+let g:dark_purple_grey  = '#373040' " Selection (dark purple grey)
 let g:darker_grey       = '#292b2e' " bg
 let g:grey              = '#68727c' " Comment, LineNr, Visual
 let g:light_grey        = '#827591' " punct (purple_grey)
@@ -54,7 +54,7 @@ let g:search            = g:light_yellow
 let g:cursor            = g:yellow
 let g:comments          = g:grey
 let g:line_numbers      = g:grey
-let g:selection         = g:grey
+let g:selection         = g:dark_purple_grey
 let g:punct             = g:light_grey
 " }}}
 "
