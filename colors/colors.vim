@@ -33,7 +33,7 @@ let g:teal              = '#2aa1ae' " (teal)
 let g:accent_teal       = '#373040' " SpecialChar, Todo, Directory (dark purple grey)
 
 let g:paleblue          = '#B2CCD6' " [not found]
-let g:blue              = '#4f97d7' " DiffText, Title, Function(blue)
+let g:blue              = '#2aa1ae' " DiffText, Title, Function (teal)
 let g:cyan              = '#ce537a' " Operator, Include (coral)
 let g:soft_red          = '#ce537a' " WarningMsg, DiffDelete, ErrorMsg (coral)
 let g:red               = '#FF5370' " [not found]
@@ -62,3 +62,4 @@ let g:punct             = g:light_grey
 " let g:lighter_grey_blue = '#EEFFFF' " (fg)
 " let g:accent_teal       = '#73D1C8' " SpecialChar, Todo, Directory
 " let g:grey              = '#68727c' " Comment, LineNr, Visual
+" let g:blue              = '#4f97d7' " DiffText, Title, Function(blue)
