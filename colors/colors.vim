@@ -18,7 +18,7 @@ let g:black             = '#000000' " contrast
 let g:darkest_grey      = '#212026' " line cursor bg_alt
 let g:dark_purple_grey  = '#373040' " (dark purple grey)
 let g:darker_grey       = '#292b2e' " bg
-let g:grey              = '#68727c' " Comment, LineNr, Visual
+let g:grey              = '#373040' " Comment, LineNr, Visual
 let g:light_grey        = '#827591' " punct (purple_grey)
 let g:lighter_grey      = '#827591' " fg_alt (purple_grey)
 let g:dark_purple       = "#5d4d7a" " act2 (dark purple)
@@ -61,3 +61,4 @@ let g:punct             = g:light_grey
 "
 " let g:lighter_grey_blue = '#EEFFFF' " (fg)
 " let g:accent_teal       = '#73D1C8' " SpecialChar, Todo, Directory
+" let g:grey              = '#68727c' " Comment, LineNr, Visual
