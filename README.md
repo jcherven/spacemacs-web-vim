@@ -1,60 +1,14 @@
-# Vim Vimterial Dark Colorscheme
+# Spacemacs-Web Dark Colorscheme
 
-A dark vim color scheme based on [Material Theme Darker](http://equinusocio.github.io/material-theme).
-Improved for web development.
+A vim colortheme forked from [vimterial-dark](https://github.com/larsbs/vimterial-dark) with the [Spacemacs](http://spacemacs.org) colors in mind. Vimterial has great syntax targeting and plugin support for web development, but I love working in the dark, mellow, purple-heavy environment of the Spacemacs default theme. I haven't run into any Spacemacs-inspired vim colorthemes with good support for web stacks yet, so maybe someday it can join the canon of well-beloved dark themes.
 
-> See also a variation of this color scheme based on atom [vimtom](https://github.com/larsbs/vimtom)
-
-> See also a lighter variation of this color scheme [vimterial](https://github.com/larsbs/vimterial)
-
-## Target Syntax Highlighting Plugins
-
-This theme has been designed with the following syntax highlighting plugins in mind:
-
- * JavaScript: [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript)
- * JSX: [mxw/vim-jsx](https://github.com/mxw/vim-jsx)
- * HTML5: [othree/html5.vim](https://github.com/othree/html5.vim)
- * XML: [larsbs/vim-xmll](https://github.com/larsbs/vim-xmll)
- * Jinja: [Glench/Vim-Jinja2-Syntax](https://github.com/Glench/Vim-Jinja2-Syntax)
- * CSS: [JulesWang/css.vim](https://github.com/JulesWang/css.vim)
- * LESS: [genoma/vim-less](https://github.com/genoma/vim-less)
- * Handlebars: [mustache/vim-mustache-handlebars](https://github.com/mustache/vim-mustache-handlebars)
-
-Support for configure and extend the list of supported syntax highlighting plugins is planned.
-
-> **NOTE:** If you want to add support for a custom syntax highlighting plugin, just fork the repo, create a file under `colors/syntax/{file-type}/{name-of-syntax-plugin}` and then import it in `vimterial_dark.vim`. PRs accepted. See [colors/syntax](colors/syntax) for reference.
+I haven't completely finished many details, namely some parts of the [vim-airline](https://github.com/vim-airline/vim-airline) theme and a few parts of the vim UI. The most glaring thing I've left unfinished is the naming of the global color definitions, which do not accurately reflect the color names at the moment. In a shamefully sloppy fashion, I'll address these issues as I encounter them while I carry on with my work.
 
 ## Installation
+I'm currently using [vim-plug](https://github.com/junegunn/vim-plug); this however should easily adapt to your preferred plugin manager.
 
-### Vundle (Recommended)
-
-Installation using [Vundle](https://github.com/VundleVim/Vundle.vim) mentioned for completeness, but it should be similar to the installation of other Vim plugins with whatever installation method you are used to.
-
-Install [Vundle](https://github.com/VundleVim/Vundle.vim) and add this theme as a plugin to your `.vimrc`:
-
-```vim
-"...
-Plugin 'larsbs/vimterial_dark'
-"...
+Add the following to your vim-plug declarations:
+```
+Plug 'jcherven/spacemacs-web-vim'
 ```
 
-Then save the file and run `vim +PluginInstall`
-
-
-## Screenshots
-
-### Javascript
-
-![JavaScript screenshot](screenshots/js.png)
-
-### HTML
-
-![HTML screenshot](screenshots/html.png)
-
-### Python
-
-![Python screenshot](screenshots/py.png)
-
-### LESS
-
-![LESS screenshot](screenshots/less.png)

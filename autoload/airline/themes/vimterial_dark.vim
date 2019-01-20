@@ -1,13 +1,8 @@
 " Vim airline theme
 "
-" This file is part of the vimterial_dark colorschema by
-" Lorenzo Ruiz <lars.bs@hotmail.com>. See full
-" LICENSE for details.
+" This colortheme has been adapted for Spacemacs colors from Vimterial_dark
+" which was created by Lorenzo Ruiz (http://github.com/larsbs/vimterial_dark).
 "
-" Maintainer: Lorenzo Ruiz <lars.bs@hotmail.com>
-" URL: http://github.com/larsbs/vimterial_dark
-
-
 " COLORS "{{{
 " =======
 execute 'source ' . expand("<sfile>:p:h") . "/../../../colors/colors.vim"

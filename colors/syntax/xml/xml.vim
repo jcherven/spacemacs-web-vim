@@ -1,13 +1,8 @@
 " Vim color file
 "
-" This file is part of the vimterial_dark colorscheme by
-" Lorenzo Ruiz <lars.bs@hotmail.com>. See full
-" LICENSE for details.
+" This colortheme has been adapted for Spacemacs colors from Vimterial_dark
+" which was created by Lorenzo Ruiz (http://github.com/larsbs/vimterial_dark).
 "
-" Maintainer: Lorenzo Ruiz <lars.bs@hotmail.com>
-" URL: https://github.com/larsbs/vimterial_dark
-
-
 " XML Highlighting "{{{
 " =================
 hi link xmlTag          htmlTag

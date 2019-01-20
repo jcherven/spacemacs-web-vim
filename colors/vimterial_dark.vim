@@ -1,13 +1,8 @@
 " Vim color file
 "
-" This file is part of the vimterial_dark colorscheme by
-" Lorenzo Ruiz <lars.bs@hotmail.com>. See full
-" LICENSE for details.
+" This colortheme has been adapted for Spacemacs colors from Vimterial_dark
+" which was created by Lorenzo Ruiz (http://github.com/larsbs/vimterial_dark).
 "
-" Maintainer: Lorenzo Ruiz <lars.bs@hotmail.com>
-" URL: httpg://github.com/larsbs/vimterial_dark
-
-
 " CONFIGURATION "{{{
 " =============
 set background=dark
@@ -18,7 +13,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-let colors_name="vimterial_dark"
+let colors_name="spacemacs-web-vim"
 " }}}
 
 " UTILS "{{{
