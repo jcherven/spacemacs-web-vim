@@ -145,7 +145,7 @@ hi Statement            gui=italic
 " case, default, etc.
 "hi Label
 " sizeof, +, *, etc.
-Hi Operator             g:cyan               g:ignore
+Hi Operator             g:grey_blue               g:ignore
 " Any other keyword
 "hi Keyword
 " Try, catch, throw

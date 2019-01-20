@@ -25,7 +25,7 @@ let g:dark_purple       = "#5d4d7a" " act2 (dark purple)
 let g:white             = '#b2b2b2' " base (light grey)
 
 let g:dark_grey_blue    = '#37474f'
-let g:grey_blue         = '#546e7a'
+let g:grey_blue         = '#546e7a' " Operator
 let g:light_grey_blue   = '#B2CCD6'
 let g:lighter_grey_blue = '#b2b2b2' " (fg)
 
@@ -34,8 +34,8 @@ let g:accent_teal       = '#373040' " SpecialChar, Todo, Directory (dark purple 
 
 let g:paleblue          = '#B2CCD6' " [not found]
 let g:blue              = '#2aa1ae' " DiffText, Title, Function (teal)
-let g:cyan              = '#ce537a' " Operator, Include (coral)
-let g:soft_red          = '#ce537a' " WarningMsg, DiffDelete, ErrorMsg (coral)
+let g:cyan              = '#ce537a' " Include (coral)
+let g:soft_red          = '#ff5370' " WarningMsg, DiffDelete, ErrorMsg (coral)
 let g:red               = '#FF5370' " [not found]
 let g:green             = '#2d9574' " String (cool green)
 let g:violet            = '#bc6ec5' " Identifier, Statement, PreProc, Type (pink)
