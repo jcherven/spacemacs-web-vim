@@ -67,7 +67,7 @@ Hi Cursor               g:background         g:cursor
 "hi CursorIM
 Hi CursorColumn         g:ignore             g:background_alt
 Hi CursorLine           g:ignore             g:background_alt
-Hi Directory            g:accent_teal        g:ignore
+Hi Directory            g:cyan        g:ignore
 Hi DiffAdd              g:green              g:background_alt
 hi DiffAdd              gui=bold
 Hi DiffChange           g:orange             g:background_alt
