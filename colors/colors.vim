@@ -41,8 +41,7 @@ let g:green             = '#2d9574' " String (cool green)
 let g:violet            = '#bc6ec5' " Identifier, Statement, PreProc, Type (pink)
 let g:limegreen         = '#67b11d' " [not found] (bright mute green)
 let g:orange            = '#a45bad' " DiffChange (medium purple)
-" let g:soft_orange       = '#F78C6C' " Constant
-let g:soft_orange       = '#5d4d7a' " assignment values (dark purple)
+let g:soft_orange       = '#7590db' " assignment values (azure)
 let g:light_yellow      = '#b1951d' " search (error amber)
 let g:yellow            = '#FBC02D' " cursor
 
