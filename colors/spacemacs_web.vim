@@ -90,8 +90,8 @@ Hi IncSearch            g:foreground          g:search
 "Hi StatusLineNC         g:testing             g:testing
 Hi TabLine              g:none                g:dark_purple_grey
 Hi TabLineFill          g:dark_purple_grey    g:none
-Hi Title                g:dark_purple_grey    g:ignore
-Hi Visual               g:foreground           g:selection
+Hi Title                g:foreground          g:ignore
+Hi Visual               g:foreground          g:selection
 "Hi VisualNOS            g:testing             g:testing
 Hi WarningMsg           g:soft_red            g:ignore
 Hi WildMenu             g:foreground          g:dark_purple
