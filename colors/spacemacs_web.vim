@@ -78,18 +78,18 @@ Hi FoldedColumn         g:background          g:grey_blue
 Hi SignColumn           g:line_numbers        g:dark_purple_grey
 Hi LineNr               g:line_numbers        g:ignore
 Hi MatchParen           g:background_alt      g:grey_blue
-Hi ModeMsg              g:white    g:none
+Hi ModeMsg              g:white               g:none
 "Hi MoreMsg              g:testing             g:testing
 Hi NonText              g:line_numbers        g:ignore
 Hi Question             g:line_numbers        g:none
 hi Question             gui=none
 Hi Search               g:foreground          g:search
-Hi IncSearch            g:foreground          g:search
+Hi IncSearch            g:background_alt      g:search
 "Hi SpecialKey           g:testing             g:testing
 "Hi StatusLine           g:testing             g:testing
 "Hi StatusLineNC         g:testing             g:testing
 Hi TabLine              g:none                g:dark_purple_grey
-Hi TabLineFill          g:background                g:none
+Hi TabLineFill          g:background          g:none
 Hi Title                g:comments            g:ignore
 Hi Visual               g:foreground          g:selection
 "Hi VisualNOS            g:testing             g:testing

@@ -26,9 +26,11 @@ let g:lighter_grey_blue = '#b2b2b2'
 
 let g:teal              = '#2aa1ae'
 let g:accent_teal       = '#373040'
+let g:accent_teal_alt   = '#73d1c8'
 
 let g:paleblue          = '#B2CCD6'
 let g:blue              = '#2aa1ae'
+let g:blue_alt          = '#4f97d7'
 let g:cyan              = '#ce537a'
 let g:soft_red          = '#ff5370'
 let g:red               = '#FF5370'
@@ -53,7 +55,3 @@ let g:selection         = g:dark_purple_grey
 let g:punct             = g:light_grey
 " }}}
 "
-" let g:lighter_grey_blue = '#EEFFFF' " (fg)
-" let g:accent_teal       = '#73D1C8' " SpecialChar, Todo, Directory
-" let g:grey              = '#68727c' " Comment, LineNr, Visual
-" let g:blue              = '#4f97d7' " DiffText, Title, Function(blue)
