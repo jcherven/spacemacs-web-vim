@@ -137,11 +137,9 @@ Hi Function             g:blue               g:ignore
 Hi Statement            g:violet             g:ignore
 hi Statement            gui=italic
 " if, then, else, endif, switch, etc.
-Hi Conditional          g:teal              g:ignore
-hi Conditional          gui=italic
+"hi Conditional
 " for, do, while, etc.
-" Hi Repeat
-" hi Repeat
+"hi Repeat
 " case, default, etc.
 "hi Label
 " sizeof, +, *, etc.
