@@ -96,7 +96,7 @@ Hi Menu                 g:testing            g:testing
 Hi Scrollbar            g:testing            g:testing
 Hi Tooltip              g:testing            g:testing
 Hi Pmenu                g:foreground         g:background_alt
-Hi PmenuSel             g:background_alt     g:selection
+Hi PmenuSel             g:foreground     g:selection
 Hi PmenuSbar            g:ignore             g:grey_blue
 Hi PmenuThumb           g:ignore             g:foreground
 " }}}
