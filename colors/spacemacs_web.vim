@@ -89,6 +89,7 @@ Hi IncSearch            g:search             g:background_alt
 "Hi StatusLine           g:testing            g:testing
 "Hi StatusLineNC         g:testing            g:testing
 Hi TabLine              g:none               g:dark_purple
+Hi TabLineFill          g:none               g:dark_purple
 Hi Title                g:dark_purple        g:ignore
 Hi Visual               g:ignore             g:selection
 "Hi VisualNOS            g:testing            g:testing
