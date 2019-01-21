@@ -54,7 +54,7 @@ execute 'source ' . expand("<sfile>:p:h") . "/colors.vim"
 " }}}
 
 " GENERAL "{{{
-" =======
+" Highlight Group               FG color              BG color
 Hi Normal               g:foreground         g:background
 Hi Noise                g:punct              g:background
 "Hi ColorColumn          g:testing            g:testing
@@ -62,6 +62,7 @@ Hi Cursor               g:background         g:cursor
 "hi CursorIM
 Hi CursorColumn         g:ignore             g:background_alt
 Hi CursorLine           g:ignore             g:background_alt
+Hi CursorLineNr         g:teal               g:ignore
 Hi Directory            g:accent_teal        g:ignore
 Hi DiffAdd              g:green              g:background_alt
 hi DiffAdd              gui=bold
