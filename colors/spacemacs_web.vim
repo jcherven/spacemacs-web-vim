@@ -82,7 +82,7 @@ Hi ModeMsg              g:white    g:none
 Hi NonText              g:line_numbers       g:ignore
 Hi Question             g:line_numbers       g:none
 hi Question             gui=none
-Hi Search               g:background_alt     g:search
+Hi Search               g:ignore             g:search
 Hi IncSearch            g:search             g:background_alt
 "Hi SpecialKey           g:testing            g:testing
 "Hi StatusLine           g:testing            g:testing
