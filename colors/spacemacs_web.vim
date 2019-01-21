@@ -63,7 +63,7 @@ Hi Cursor               g:background          g:cursor
 Hi CursorColumn         g:ignore              g:background_alt
 Hi CursorLine           g:ignore              g:background_alt
 Hi CursorLineNr         g:teal                g:ignore
-Hi Directory            g:accent_teal         g:ignore
+Hi Directory            g:light_grey          g:ignore
 Hi DiffAdd              g:green               g:background_alt
 hi DiffAdd              gui=bold
 Hi DiffChange           g:orange              g:background_alt
@@ -83,8 +83,8 @@ Hi ModeMsg              g:white    g:none
 Hi NonText              g:line_numbers        g:ignore
 Hi Question             g:line_numbers        g:none
 hi Question             gui=none
-Hi Search               g:ignore              g:search
-Hi IncSearch            g:search              g:background_alt
+Hi Search               g:foreground          g:search
+Hi IncSearch            g:foreground          g:search
 "Hi SpecialKey           g:testing             g:testing
 "Hi StatusLine           g:testing             g:testing
 "Hi StatusLineNC         g:testing             g:testing
