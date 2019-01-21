@@ -60,7 +60,7 @@ Hi Noise                g:punct               g:background
 "Hi ColorColumn          g:testing             g:testing
 Hi Cursor               g:background          g:cursor
 "hi CursorIM
-Hi CursorColumn         g:ignore              g:background_alt
+Hi CursorColumn         g:accent_teal_alt     g:background_alt
 Hi CursorLine           g:ignore              g:background_alt
 Hi CursorLineNr         g:teal                g:ignore
 Hi Directory            g:light_grey          g:ignore
