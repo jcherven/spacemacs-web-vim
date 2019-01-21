@@ -90,6 +90,7 @@ Hi IncSearch            g:background_alt      g:search
 "Hi StatusLineNC         g:testing             g:testing
 Hi TabLine              g:none                g:background
 Hi TabLineFill          g:background          g:none
+Hi TablineSel           g:background          g:teal
 Hi Title                g:comments            g:ignore
 Hi Visual               g:foreground          g:selection
 "Hi VisualNOS            g:testing             g:testing
