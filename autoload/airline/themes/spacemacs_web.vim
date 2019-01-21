@@ -7,7 +7,7 @@
 " =======
 execute 'source ' . expand("<sfile>:p:h") . "/../../../colors/colors.vim"
 
-let g:normal_accent = g:orange
+let g:normal_accent = g:dark_purple
 let g:insert_accent = g:blue
 let g:visual_accent = g:green
 let g:replace_accent = g:soft_red
