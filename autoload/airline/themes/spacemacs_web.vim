@@ -61,7 +61,7 @@ let g:airline#themes#spacemacs_web#palette.ctrlp = airline#extensions#ctrlp#gene
 
 " Tabline
 let g:airline#themes#spacemacs_web#palette.tabline = {
-      \ 'airline_tab':     [ g:foreground_alt , g:background ,  15 , 55  , '' ],
+      \ 'airline_tab':     [ g:background , g:background ,  15 , 55  , '' ],
       \ 'airline_tabsel':  [ g:foreground_alt , g:visual_accent ,  15 , 98  , '' ],
       \ 'airline_tabtype': [ g:foreground_alt , g:normal_accent ,  15 , 98  , '' ],
       \ 'airline_tabfill': [ g:foreground_alt , g:background_alt ,  15 , 233 , '' ],
