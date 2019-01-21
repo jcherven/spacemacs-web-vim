@@ -87,11 +87,11 @@ Hi IncSearch            g:search             g:background_alt
 "Hi SpecialKey           g:testing            g:testing
 "Hi StatusLine           g:testing            g:testing
 "Hi StatusLineNC         g:testing            g:testing
-Hi Title                g:dark_purple               g:ignore
+Hi Title                g:dark_purple        g:ignore
 Hi Visual               g:ignore             g:selection
 "Hi VisualNOS            g:testing            g:testing
 Hi WarningMsg           g:soft_red           g:ignore
-Hi WildMenu             g:testing            g:testing
+Hi WildMenu             g:foreground         g:testing
 Hi Menu                 g:testing            g:testing
 Hi Scrollbar            g:testing            g:testing
 Hi Tooltip              g:testing            g:testing
