@@ -74,7 +74,7 @@ hi ErrorMsg             gui=none
 Hi VertSplit            g:dark_purple_grey   g:line_numbers
 Hi Folded               g:background         g:grey_blue
 Hi FoldedColumn         g:background         g:grey_blue
-Hi SignColumn           g:line_numbers       g:ignore
+Hi SignColumn           g:line_numbers       g:dark_purple_grey
 Hi LineNr               g:line_numbers       g:ignore
 Hi MatchParen           g:background_alt     g:grey_blue
 Hi ModeMsg              g:white    g:none
