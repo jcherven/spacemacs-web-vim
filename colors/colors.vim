@@ -17,7 +17,7 @@ let g:grey              = '#68727c'
 let g:light_grey        = '#827591'
 let g:lighter_grey      = '#827591'
 let g:dark_purple       = "#5d4d7a"
-let g:white             = '#b2b2b2'
+let g:white             = '#eeffff'
 
 let g:dark_grey_blue    = '#37474f'
 let g:grey_blue         = '#546e7a'

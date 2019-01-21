@@ -77,7 +77,7 @@ Hi FoldedColumn         g:background         g:grey_blue
 Hi SignColumn           g:line_numbers       g:ignore
 Hi LineNr               g:line_numbers       g:ignore
 Hi MatchParen           g:background_alt     g:grey_blue
-Hi ModeMsg              g:light_grey_blue    g:none
+Hi ModeMsg              g:white    g:none
 "Hi MoreMsg              g:testing            g:testing
 Hi NonText              g:line_numbers       g:ignore
 Hi Question             g:line_numbers       g:none
