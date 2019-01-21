@@ -13,7 +13,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-let colors_name="spacemacs-web-vim"
+let colors_name="spacemacs_web"
 " }}}
 
 " UTILS "{{{
