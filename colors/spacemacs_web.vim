@@ -91,7 +91,7 @@ Hi Title                g:dark_purple        g:ignore
 Hi Visual               g:ignore             g:selection
 "Hi VisualNOS            g:testing            g:testing
 Hi WarningMsg           g:soft_red           g:ignore
-Hi WildMenu             g:foreground         g:testing
+Hi WildMenu             g:foreground         g:dark_purple
 Hi Menu                 g:testing            g:testing
 Hi Scrollbar            g:testing            g:testing
 Hi Tooltip              g:testing            g:testing
