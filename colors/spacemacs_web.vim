@@ -140,8 +140,8 @@ hi Statement            gui=italic
 Hi Conditional          g:teal              g:ignore
 hi Conditional          gui=italic
 " for, do, while, etc.
-Hi Repeat               g:teal              g:ignore
-hi Repeat               gui=italic
+" Hi Repeat
+" hi Repeat
 " case, default, etc.
 "hi Label
 " sizeof, +, *, etc.
