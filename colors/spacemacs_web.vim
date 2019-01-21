@@ -91,7 +91,7 @@ Hi IncSearch            g:search              g:background_alt
 Hi TabLine              g:none                g:dark_purple_grey
 Hi TabLineFill          g:dark_purple_grey    g:none
 Hi Title                g:dark_purple_grey    g:ignore
-Hi Visual               g:foregroud           g:selection
+Hi Visual               g:foreground           g:selection
 "Hi VisualNOS            g:testing             g:testing
 Hi WarningMsg           g:soft_red            g:ignore
 Hi WildMenu             g:foreground          g:dark_purple
