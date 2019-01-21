@@ -88,7 +88,7 @@ Hi IncSearch            g:search              g:background_alt
 "Hi SpecialKey           g:testing             g:testing
 "Hi StatusLine           g:testing             g:testing
 "Hi StatusLineNC         g:testing             g:testing
-Hi TabLine              g:none                g:dark_purple
+Hi TabLine              g:none                g:dark_purple_grey
 Hi TabLineFill          g:dark_purple_grey    g:none
 Hi Title                g:dark_purple_grey    g:ignore
 Hi Visual               g:ignore              g:selection
