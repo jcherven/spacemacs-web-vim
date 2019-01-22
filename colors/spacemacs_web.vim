@@ -66,7 +66,7 @@ Hi CursorLineNr         g:teal                g:ignore
 Hi Directory            g:light_purple_grey   g:ignore
 Hi DiffAdd              g:green               g:background_alt
 hi DiffAdd              gui=bold
-Hi DiffChange           g:orange              g:background_alt
+Hi DiffChange           g:mid_purple          g:background_alt
 hi DiffChange           gui=bold
 Hi DiffDelete           g:soft_red            g:background_alt
 Hi DiffText             g:teal                g:background_alt
@@ -126,7 +126,7 @@ Hi String               g:green              g:ignore
 " IDENTIFIERS "{{{
 " ===========
 " Any variable name
-Hi Identifier           g:violet         g:ignore
+Hi Identifier           g:lavender         g:ignore
 hi Identifier           gui=none
 " Function name (also: methods for classes)
 Hi Function             g:teal               g:ignore
