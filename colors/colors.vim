@@ -24,7 +24,7 @@ let g:testing           = '#CDFF00'
 let g:limegreen         = '#67b11d'
 
 let g:paleblue          = '#B2CCD6'
-let g:accent_teal_alt   = '#73d1c8'
+let g:accent_teal       = '#73d1c8'
 let g:teal              = '#2aa1ae'
 let g:green             = '#2d9574'
 let g:blue_alt          = '#4f97d7'
@@ -44,7 +44,6 @@ let g:soft_red          = '#ff5370'
 let g:cyan              = '#21B8C7'
 let g:orange            = '#ff9400'
 let g:blue              = '#3a81c3'
-" g:accent_teal
 
 let g:background        = g:darker_grey
 let g:background_alt    = g:darkest_grey
