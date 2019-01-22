@@ -216,7 +216,7 @@ Hi SpecialChar          g:accent_teal        g:ignore
 " =====
 " Anything that needs extra attention; mostly the kewords
 " TODO FIXME and XXX
-Hi Todo                 g:accent_teal    g:none
+Hi Todo                 g:cyan    g:none
 hi Todo                 gui=bold
 " }}}
 
