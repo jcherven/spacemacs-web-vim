@@ -40,6 +40,12 @@ let g:dark_purple_grey  = '#373040'
 let g:pink              = '#ce537a'
 let g:soft_red          = '#ff5370'
 
+" vimrc complaining about CustomHighlighter missing these:
+let g:cyan              = '#21B8C7'
+" g:orange
+let g:blue              = '#3a81c3'
+" g:accent_teal
+
 let g:background        = g:darker_grey
 let g:background_alt    = g:darkest_grey
 let g:foreground        = g:lighter_grey_blue
