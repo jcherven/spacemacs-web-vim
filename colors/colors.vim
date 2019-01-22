@@ -43,8 +43,8 @@ let g:soft_red          = '#ff5370'
 " These names do not reflect their visual appearance
 " They are used by the JS and JSX syntax highlighting plugins
 let g:cyan              = '#21B8C7'
-let g:orange            = '#806aab'
-let g:blue              = '#3a81c3'
+let g:orange            = g:lavender
+let g:blue              = g:teal
 
 let g:background        = g:darker_grey
 let g:background_alt    = g:darkest_grey
