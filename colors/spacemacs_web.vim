@@ -168,8 +168,8 @@ Hi Include              g:cyan               g:ignore
 " TYPES "{{{
 " =====
 " int, long, char, etc.
-Hi Type                 g:violet             g:ignore
-hi Type                 gui=none
+Hi Type                 g:teal             g:ignore
+hi Type                 gui=italic
 " static, register, volatile, etc.
 "hi StorageClass
 " struct, union, enum, etc.
