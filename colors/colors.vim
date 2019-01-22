@@ -40,9 +40,10 @@ let g:dark_purple_grey  = '#373040'
 let g:pink              = '#ce537a'
 let g:soft_red          = '#ff5370'
 
-" vimrc complaining about CustomHighlighter missing these:
+" These names do not reflect their visual appearance
+" They are used by the JS and JSX syntax highlighting plugins
 let g:cyan              = '#21B8C7'
-let g:orange            = '#ff9400'
+let g:orange            = '#806aab'
 let g:blue              = '#3a81c3'
 
 let g:background        = g:darker_grey
