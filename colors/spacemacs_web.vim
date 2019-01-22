@@ -63,13 +63,13 @@ Hi Cursor               g:background          g:cursor
 Hi CursorColumn         g:ignore              g:background_alt
 Hi CursorLine           g:ignore              g:background_alt
 Hi CursorLineNr         g:teal                g:ignore
-Hi Directory            g:light_grey          g:ignore
+Hi Directory            g:light_purple_grey   g:ignore
 Hi DiffAdd              g:green               g:background_alt
 hi DiffAdd              gui=bold
 Hi DiffChange           g:orange              g:background_alt
 hi DiffChange           gui=bold
 Hi DiffDelete           g:soft_red            g:background_alt
-Hi DiffText             g:blue                g:background_alt
+Hi DiffText             g:teal                g:background_alt
 Hi ErrorMsg             g:background          g:soft_red
 hi ErrorMsg             gui=none
 Hi VertSplit            g:dark_purple_grey    g:line_numbers
@@ -126,10 +126,10 @@ Hi String               g:green              g:ignore
 " IDENTIFIERS "{{{
 " ===========
 " Any variable name
-Hi Identifier           g:violet             g:ignore
+Hi Identifier           g:violet         g:ignore
 hi Identifier           gui=none
 " Function name (also: methods for classes)
-Hi Function             g:blue               g:ignore
+Hi Function             g:teal               g:ignore
 " }}}
 
 " STATEMENTS "{{{
@@ -156,7 +156,7 @@ Hi Operator             g:teal               g:ignore
 " Generic preprocessor
 Hi PreProc              g:violet             g:ignore
 " Preprocessor #include
-Hi Include              g:cyan               g:ignore
+Hi Include              g:pink               g:ignore
 " Preprocessor #define
 "hi Define
 " Same as define
@@ -183,7 +183,7 @@ hi Type                 gui=italic
 " Any special symbol (ex: [, ], (, ), etc.)
 Hi Special              g:foreground         g:ignore
 " Special character in a constant (ex: \n, %s, etc.)
-Hi SpecialChar          g:accent_teal        g:ignore
+Hi SpecialChar          g:dark_purple_grey        g:ignore
 " You can use CTRL-] on this
 "hi Tag
 " Character that needs attention
