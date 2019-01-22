@@ -23,32 +23,37 @@ let g:yellow            = '#FBC02D'
 let g:testing           = '#CDFF00'
 let g:limegreen         = '#67b11d'
 
+let g:light_grey_blue   = '#B2CCD6'
 let g:paleblue          = '#B2CCD6'
 let g:accent_teal_alt   = '#73d1c8'
 let g:teal              = '#2aa1ae'
+let g:blue              = '#2aa1ae'
 let g:green             = '#2d9574'
 let g:blue_alt          = '#4f97d7'
 
 let g:soft_orange       = '#7590db'
-let g:light_purple_grey = '#827591'
+let g:light_grey        = '#827591'
+let g:lighter_grey      = '#827591'
 let g:violet            = '#bc6ec5'
 let g:orange            = '#a45bad'
-let g:dark_purple       = '#5d4d7a'
+let g:dark_purple       = "#5d4d7a"
+let g:accent_teal       = '#373040'
 let g:dark_purple_grey  = '#373040'
 
-let g:pink              = '#ce537a'
+let g:cyan              = '#ce537a'
 let g:soft_red          = '#ff5370'
+let g:red               = '#FF5370'
 
 let g:background        = g:darker_grey
 let g:background_alt    = g:darkest_grey
 let g:foreground        = g:lighter_grey_blue
-let g:foreground_alt    = g:paleblue
+let g:foreground_alt    = g:light_grey_blue
 let g:contrast          = g:black
 let g:search            = g:dark_purple
 let g:cursor            = g:teal
 let g:comments          = g:grey
 let g:line_numbers      = g:grey
 let g:selection         = g:dark_purple
-let g:punct             = g:light_purple_grey
+let g:punct             = g:light_grey
 " }}}
 "
