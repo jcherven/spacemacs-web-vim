@@ -47,11 +47,11 @@ let g:background_alt    = g:darkest_grey
 let g:foreground        = g:lighter_grey_blue
 let g:foreground_alt    = g:light_grey_blue
 let g:contrast          = g:black
-let g:search            = g:orange
+let g:search            = g:dark_purple
 let g:cursor            = g:teal
 let g:comments          = g:grey
 let g:line_numbers      = g:grey
-let g:selection         = g:orange
+let g:selection         = g:dark_purple
 let g:punct             = g:light_grey
 " }}}
 "
