@@ -51,7 +51,7 @@ let g:search            = g:orange
 let g:cursor            = g:teal
 let g:comments          = g:grey
 let g:line_numbers      = g:grey
-let g:selection         = g:dark_purple_grey
+let g:selection         = g:orange
 let g:punct             = g:light_grey
 " }}}
 "
