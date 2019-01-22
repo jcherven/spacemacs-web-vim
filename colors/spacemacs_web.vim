@@ -126,7 +126,7 @@ Hi String               g:green              g:ignore
 " IDENTIFIERS "{{{
 " ===========
 " Any variable name
-Hi Identifier           g:violet             g:ignore
+Hi Identifier           g:dark_purple         g:ignore
 hi Identifier           gui=none
 " Function name (also: methods for classes)
 Hi Function             g:teal               g:ignore
