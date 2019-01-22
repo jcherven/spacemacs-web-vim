@@ -42,7 +42,7 @@ let g:soft_red          = '#ff5370'
 
 " vimrc complaining about CustomHighlighter missing these:
 let g:cyan              = '#21B8C7'
-" g:orange
+let g:orange            = '#ff9400'
 let g:blue              = '#3a81c3'
 " g:accent_teal
 
