@@ -1,4 +1,4 @@
-# spacemacs-web-dark
+# Colorscheme: Spacemacs_Web
 
 A vim colortheme forked from [vimterial_dark](https://github.com/larsbs/vimterial_dark) with the [Spacemacs](http://spacemacs.org) colors in mind. Vimterial has great syntax targeting and plugin support for web development, but I love working in the dark, mellow, purple-heavy environment of the Spacemacs default theme. I haven't run into any Spacemacs-inspired vim colorthemes with good support for web stacks yet, so maybe someday it can join the canon of well-beloved dark themes.
 
