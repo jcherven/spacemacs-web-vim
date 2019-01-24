@@ -68,9 +68,9 @@ Hi DiffAdd              g:green               g:background_alt
 hi DiffAdd              gui=bold
 Hi DiffChange           g:mid_purple          g:background_alt
 hi DiffChange           gui=bold
-Hi DiffDelete           g:pink                g:background_alt
+Hi DiffDelete           g:soft_red            g:background_alt
 Hi DiffText             g:teal                g:background_alt
-Hi ErrorMsg             g:background          g:pink
+Hi ErrorMsg             g:background          g:soft_red
 hi ErrorMsg             gui=none
 Hi VertSplit            g:dark_purple_grey    g:line_numbers
 Hi Folded               g:background          g:grey_blue
@@ -94,7 +94,7 @@ Hi TablineSel           g:background          g:teal
 Hi Title                g:comments            g:ignore
 Hi Visual               g:foreground          g:selection
 "Hi VisualNOS            g:testing             g:testing
-Hi WarningMsg           g:pink                g:ignore
+Hi WarningMsg           g:soft_red            g:ignore
 Hi WildMenu             g:foreground          g:dark_purple
 Hi Menu                 g:testing             g:testing
 Hi Scrollbar            g:testing             g:testing
@@ -156,7 +156,7 @@ Hi Operator             g:teal               g:ignore
 " Generic preprocessor
 Hi PreProc              g:violet             g:ignore
 " Preprocessor #include
-Hi Include              g:pink               g:ignore
+Hi Include              g:soft_red           g:ignore
 " Preprocessor #define
 "hi Define
 " Same as define
