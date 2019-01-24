@@ -39,7 +39,6 @@ let g:dark_purple       = '#5d4d7a'
 let g:dark_purple_grey  = '#373040'
 
 let g:pink              = '#ce537a'
-let g:accent_blue       = '#4f97d7'
 
 " These names do not reflect their visual appearance
 " They are used by the JS and JSX syntax highlighting plugins
