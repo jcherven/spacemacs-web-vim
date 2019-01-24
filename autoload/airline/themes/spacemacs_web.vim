@@ -10,7 +10,7 @@ execute 'source ' . expand("<sfile>:p:h") . "/../../../colors/colors.vim"
 let g:normal_accent = g:dark_purple
 let g:insert_accent = g:teal
 let g:visual_accent = g:green
-let g:replace_accent = g:soft_red
+let g:replace_accent = g:accent_blue
 let g:contrlp_accent = g:grey
 " }}}
 
@@ -65,10 +65,10 @@ let g:airline#themes#spacemacs_web#palette.tabline = {
       \ 'airline_tabsel':  [ g:foreground_alt , g:visual_accent ,  15 , 98  , '' ],
       \ 'airline_tabtype': [ g:foreground_alt , g:normal_accent ,  15 , 98  , '' ],
       \ 'airline_tabfill': [ g:foreground_alt , g:background_alt ,  15 , 233 , '' ],
-      \ 'airline_tabmod':  [ g:background_alt , g:soft_red ,  15 , 33  , '' ]
+      \ 'airline_tabmod':  [ g:background_alt , g:accent_blue ,  15 , 33  , '' ]
       \ }
 " let g:normal_accent = g:grey
 " let g:insert_accent = g:teal
 " let g:visual_accent = g:green
-" let g:replace_accent = g:soft_red
+" let g:replace_accent = g:accent_blue
 " let g:contrlp_accent = g:grey
