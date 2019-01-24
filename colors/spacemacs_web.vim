@@ -156,7 +156,7 @@ Hi Operator             g:teal               g:ignore
 " Generic preprocessor
 Hi PreProc              g:violet             g:ignore
 " Preprocessor #include
-Hi Include              g:soft_red           g:ignore
+Hi Include              g:pink               g:ignore
 " Preprocessor #define
 "hi Define
 " Same as define
