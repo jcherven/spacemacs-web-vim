@@ -233,17 +233,9 @@ execute 'source ' . expand("<sfile>:p:h") . "/syntax/html/othree-html5.vim"
 " =================
 execute 'source ' . expand("<sfile>:p:h") . "/syntax/xml/xml.vim"
 " }}}
-" Jinja Highlighting "{{{
-" ==================
-execute 'source ' . expand("<sfile>:p:h") . "/syntax/jinja/glench-vim-jinja2-syntax.vim"
-" }}}
 " CSS Highlighting "{{{
 " ================
 execute 'source ' . expand("<sfile>:p:h") . "/syntax/css/juleswang-css.vim"
-" }}}
-" LESS Highlighting "{{{
-" =================
-execute 'source ' . expand("<sfile>:p:h") . "/syntax/less/genoma-vim-less.vim"
 " }}}
 " SH Highlighting "{{{
 " ===============
