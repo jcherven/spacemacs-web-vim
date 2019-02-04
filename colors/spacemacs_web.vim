@@ -225,6 +225,10 @@ hi Todo                 gui=bold
 " =======================
 execute 'source ' . expand("<sfile>:p:h") . "/syntax/javascript/pangloss-vim-javascript.vim"
 " }}}
+" JavaScript Libraries Highlighting "{{{
+" =======================
+execute 'source ' . expand("<sfile>:p:h") . "/syntax/javascript/othree-javascript-libraries-syntax.vim"
+" }}}
 " HTML Highlighting "{{{
 " =================
 execute 'source ' . expand("<sfile>:p:h") . "/syntax/html/othree-html5.vim"
